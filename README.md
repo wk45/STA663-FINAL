@@ -5,3 +5,5 @@ Authors: Shen Yan, Woo Min Kim
 
 Main functions have been packaged and can be downloaded using: 
 pip install sghmc
+
+Installation Demo can be found in 'PackageDemo.ipynb'
