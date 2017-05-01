@@ -1,5 +1,5 @@
 # Stochastic Gradient Hamiltonian Monte Carlo 
-###(STA663-FINAL)
+(STA663-FINAL)
 
 Authors: Shen Yan, Woo Min Kim
 
